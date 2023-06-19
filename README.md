@@ -1,4 +1,4 @@
-# Deep-Learning-Final
+# POKER CARD CLASSIFICATION AND RECOGNITION
 
 ## Students
 * Luka Chabaud
